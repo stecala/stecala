@@ -1,4 +1,4 @@
-![Banner!](https://cutewallpaper.org/22/coding-minimalist-wallpapers/30306806.jpg)
+![Banner!](https://ibb.co/Nmn7YHw)
 <hr>
 <h3>🐸 About Me:</h3>
 Again student at 30 y.o. currently living in Bologna, Italy.<br>
