@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/Nmn7YHw)]((https://github.com/stecala))
+[![MasterHead]([your image link](https://cutewallpaper.org/22/coding-minimalist-wallpapers/30306806.jpg))]([your GitHub link](https://github.com/stecala))
 <hr>
 <h3>🐸 About Me:</h3>
 Again student at 30 y.o. currently living in Bologna, Italy.<br>
