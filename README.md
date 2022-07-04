@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://changes.unipol.it/wp-content/uploads/2021/11/coding.jpg">
+[![MasterHead](https://changes.unipol.it/wp-content/uploads/2021/11/coding.jpg)]((https://github.com/stecala))
 <ul>
   <li>I’m currently learning: HMTL - CSS - JavaScript - VueJs - My Sql - PHP - Laravel</li>
   <li>Hobbies: 🎮 Videogames - 🏔️ Trekking - 📸 Photography</li>
