@@ -1,6 +1,8 @@
 [![MasterHead](https://changes.unipol.it/wp-content/uploads/2021/11/coding.jpg)]((https://github.com/stecala))
 <hr>
 <h3>🐸 About Me:</h3>
+I'm Stefano Calarota, again student at 30 y.o.<br>
+I live in Bologna, Italy.
 <ul>
   <li>I’m currently learning: HMTL - CSS - JavaScript - VueJs - My Sql - PHP - Laravel</li>
   <li>Hobbies: 🎮 Videogames - 🏔️ Trekking - 📸 Photography</li>
