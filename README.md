@@ -1,4 +1,6 @@
 [![MasterHead](https://changes.unipol.it/wp-content/uploads/2021/11/coding.jpg)]((https://github.com/stecala))
+<hr>
+🐸 About Me:
 <ul>
   <li>I’m currently learning: HMTL - CSS - JavaScript - VueJs - My Sql - PHP - Laravel</li>
   <li>Hobbies: 🎮 Videogames - 🏔️ Trekking - 📸 Photography</li>
