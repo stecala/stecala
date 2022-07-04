@@ -15,9 +15,31 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
 <a href="https://www.instagram.com/stefano.calarota/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="" height="30" width="40" /></a>
 </p>
 <hr>
-<!--
-**stecala/stecala** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">📎Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=it" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascrit" width="40" height="40"/> 
+  </a> 
+  <a href="https://vuejs.org/guide/introduction.html" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJs" width="40" height="40"/> 
+  </a> 
+  <a href="https://dev.mysql.com/doc/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.php.net/docs.php" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.photoshop.com/en" target="_blank"> 
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+  </a>  
+</p>
 
-📫 How to reach me: ...
-
--->
