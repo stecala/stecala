@@ -42,4 +42,6 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
   </a>
 </p>
+<hr>
+
 
