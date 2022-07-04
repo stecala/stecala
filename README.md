@@ -1,4 +1,4 @@
-[![MasterHead]((https://cutewallpaper.org/22/coding-minimalist-wallpapers/30306806.jpg)(https://github.com/stecala)
+![Banner!](https://cutewallpaper.org/22/coding-minimalist-wallpapers/30306806.jpg)
 <hr>
 <h3>🐸 About Me:</h3>
 Again student at 30 y.o. currently living in Bologna, Italy.<br>
