@@ -1,4 +1,4 @@
-[![MasterHead]([https://changes.unipol.it/wp-content/uploads/2021/11/coding.jpg](https://drive.google.com/file/d/1tAyJ9X8boLB4-pDF6rXaGMzzCrCp_oM_/view?usp=sharing))]((https://github.com/stecala))
+[![MasterHead]([your image link](https://ibb.co/Nmn7YHw))]([your GitHub link](https://github.com/stecala))
 <hr>
 <h3>🐸 About Me:</h3>
 Again student at 30 y.o. currently living in Bologna, Italy.<br>
