@@ -1,4 +1,4 @@
-[![MasterHead]([your image link](https://ibb.co/Nmn7YHw))]([your GitHub link](https://github.com/stecala))
+[![MasterHead](https://ibb.co/Nmn7YHw)]((https://github.com/stecala))
 <hr>
 <h3>🐸 About Me:</h3>
 Again student at 30 y.o. currently living in Bologna, Italy.<br>
