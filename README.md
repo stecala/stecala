@@ -9,6 +9,11 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
   <li>I’m currently learning: HMTL - CSS - JavaScript - VueJs - My Sql - PHP - Laravel</li>
   <li>Hobbies: 🎮 Videogames - 🏔️ Trekking - 📸 Photography</li>
 </ul>
+<h3>How to reach me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/stefano-calarota-64b623226/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
+
+</p>
 <hr>
 <!--
 **stecala/stecala** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
