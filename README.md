@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/98908632/177180915-9afbdc4b-3764-47e2-8c71-3402f6cbc65d.png)
+![banner (1)](https://user-images.githubusercontent.com/98908632/177181386-819b7dc7-d63a-4a0a-932c-ff3e8a264145.png)
+
 <hr>
 <h3>🐸 About Me:</h3>
 
