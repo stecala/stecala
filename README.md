@@ -1,6 +1,7 @@
-![Banner!](https://drive.google.com/file/d/1tAyJ9X8boLB4-pDF6rXaGMzzCrCp_oM_/view?usp=sharing)
+![banner](https://user-images.githubusercontent.com/98908632/177180915-9afbdc4b-3764-47e2-8c71-3402f6cbc65d.png)
 <hr>
 <h3>🐸 About Me:</h3>
+
 Again student at 30 y.o. currently living in Bologna, Italy.<br>
 <br>
 <ul>
