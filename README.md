@@ -1,4 +1,4 @@
-![Banner!](https://ibb.co/Nmn7YHw)
+![Banner!](https://drive.google.com/file/d/1tAyJ9X8boLB4-pDF6rXaGMzzCrCp_oM_/view?usp=sharing)
 <hr>
 <h3>🐸 About Me:</h3>
 Again student at 30 y.o. currently living in Bologna, Italy.<br>
