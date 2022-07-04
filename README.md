@@ -47,4 +47,6 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
 <a href="https://stecala.github.io/htmlcss-playstation/" target="_blank">
   <img src="https://github.com/stecala/htmlcss-playstation/blob/main/img/play_logo.svg">
 </a>
-
+<a href="https://stecala.github.io/html-css-spotifyweb/" target="_blank">
+  <img src="https://github.com/stecala/html-css-spotifyweb/blob/main/img/logo-small.svg">
+</a>
