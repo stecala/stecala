@@ -45,8 +45,8 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
 <hr>
 <h3>Chek out my works</h3>
 <a href="https://stecala.github.io/htmlcss-playstation/" target="_blank">
-  <img src="https://github.com/stecala/htmlcss-playstation/blob/main/img/play_logo.svg">
+  <img src="https://github.com/stecala/htmlcss-playstation/blob/main/img/play_logo.svg" width="40" height="40">
 </a>
 <a href="https://stecala.github.io/html-css-spotifyweb/" target="_blank">
-  <img src="https://github.com/stecala/html-css-spotifyweb/blob/main/img/logo-small.svg">
+  <img src="https://github.com/stecala/html-css-spotifyweb/blob/main/img/logo-small.svg" width="40" height="40">
 </a>
