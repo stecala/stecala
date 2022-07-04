@@ -39,7 +39,7 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
   </a>  
 </p>
 
