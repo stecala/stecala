@@ -50,3 +50,7 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
 <a href="https://stecala.github.io/html-css-spotifyweb/" target="_blank">
   <img src="https://github.com/stecala/html-css-spotifyweb/blob/main/img/logo-small.svg" width="40" height="40">
 </a>
+<a href="https://stecala.github.io/vue-todolist/" target="_blank">
+  <img src="https://github.com/stecala/vue-todolist/blob/main/logo.png" width="40" height="40">
+</a>
+
