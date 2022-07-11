@@ -51,6 +51,6 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
   <img src="https://github.com/stecala/html-css-spotifyweb/blob/main/img/logo-small.svg" width="40" height="40">
 </a>
 <a href="https://stecala.github.io/vue-boolzapp/" target="_blank">
-  <img src="https://www.google.com/search?q=favicon+whatsapp&sxsrf=ALiCzsZI6e3moIk4K8sHwGvLueA7dW6Xwg:1657543690067&source=lnms&tbm=isch&sa=X&ved=2ahUKEwimhuK27_D4AhX2VvEDHVzqCokQ_AUoAXoECAEQAw&cshid=1657543690713768&biw=1920&bih=904&dpr=1#imgrc=IXhgaRLEuEnqnM" width="40" height="40">
+  <img src="https://www.idalsys.com/wp-content/uploads/2019/03/whatsapp-icon.png" width="40" height="40">
 </a>
 
