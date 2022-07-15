@@ -31,7 +31,10 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
   </a> 
   <a href="https://vuejs.org/guide/introduction.html" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJs" width="40" height="40"/> 
-  </a> 
+  </a>
+   <a href="https://sass-lang.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a>
   <a href="https://dev.mysql.com/doc/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   </a> 
