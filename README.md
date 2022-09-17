@@ -59,6 +59,6 @@ Again student at 30 y.o. currently living in Bologna, Italy.<br>
 <a href="https://stecala.github.io/vue-boolzapp/" target="_blank">
   <img src="https://www.idalsys.com/wp-content/uploads/2019/03/whatsapp-icon.png" width="40" height="40">
 </a>
-<a href="https://stefano-calarota.onrender.com" target="_blank">
+<a href="https://stefano-calarota.onrender.com">
   <img src="https://raw.githubusercontent.com/stecala/my-portfolio/91854dc9dc617f8045338b03c866ce28b4f1bdda/public/img/SC_logo_white_border.svg" width="40" height="40">
 </a>
